@@ -8,6 +8,10 @@ This project showcases a basic version of the Pong game, where two paddles (cont
 
 ## Installation
 
+###### Clone the Repository:
+```git clone https://github.com/Ridwan778/Flappy-Bird.git ```
+
+###### Install Pygame:
 To run the game, ensure you have Python installed. Additionally, install the Pygame library using the following command:
 
 ``` pip install pygame ```
